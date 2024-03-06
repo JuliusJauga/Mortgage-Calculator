@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="what">
+    <output-path>$PROJECT_DIR$/out/artifacts/what</output-path>
+    <root id="root" />
+  </artifact>
+</component>
